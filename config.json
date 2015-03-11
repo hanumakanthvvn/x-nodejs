@@ -1,0 +1,19 @@
+{
+  "slug": "nodejs",
+  "language": "Nodejs",
+  "repository": "https://github.com/hanumakanthvvn/x-nodejs",
+  "active": true,
+  "problems": [
+    
+  ],
+  "deprecated": [
+    "octal",
+    "point-mutations"
+  ],
+  "ignored": [
+
+  ],
+  "foregone": [
+
+  ]
+}
